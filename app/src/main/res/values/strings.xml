@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">project166.2</string>
+    <string name="property_type_prompt" />
+
+
+    <string name="bed_prompt">Number of Bedrooms</string>
+    <string name="bath_prompt">Number of Bathrooms</string>
+    <string name="todo">TODO</string>
+    <string name="hi_admin">Hi, admin</string>
+    <string name="back">Back</string>
+    <string name="messages">Messages</string>
+    <string name="todo1">TODO</string>
+    <string name="your_properties">Your Properties</string>
+    <string name="todo2">TODO</string>
+    <string name="new_listings">new listings</string>
+    <string name="todo4">TODO</string>
+    <string-array name="property_type_array">
+        <item>Bungalow</item>
+        <item>Villa</item>
+        <item>House</item>
+        <item>Apartment</item>
+    </string-array>
+
+    <string-array name="bed_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="bath_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <integer-array name="rent_array">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+
+
+    <!-- Content Descriptions -->
+    <string name="profile_image_description">Profile Image</string>
+    <string name="button1_image_description">Button 1 Image</string>
+    <string name="button2_image_description">Button 2 Image</string>
+    <string name="button3_image_description">Button 3 Image</string>
+</resources>
